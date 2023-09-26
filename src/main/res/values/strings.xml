@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Insulin App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="previous">Previous</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hello_first_fragment">Insulin Calculator</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Phone_number">Phone Number</string>
+    <string name="Last_name">Last Name</string>
+    <string name="Login">Login</string>
+
+    <string name="title_4">Insulin Dose Calculator</string>
+
+    <string name="step_one">Step One: Carbohydrate Coverage</string>
+    <string name="carb_content">Carbohydrate content</string>
+    <string name="carb_ratio">Carbohydrate ratio</string>
+    <string name="insulin_carbs">Insulin dose to cover carbohydrates</string>
+    <string name="step_two">Step Two: High Blood Sugar Correction</string>
+    <string name="current_glucose">Current blood glucose</string>
+    <string name="target_glucose">Target blood glucose</string>
+    <string name="insulin_sensitivity">Insulin sensitivity factor</string>
+    <string name="insulin_dose">Insulin dose to correct blood glucose</string>
+    <string name="total_insulin">Total mealtime insulin dose</string>
+    <string name="grams">g</string>
+    <string name="units">units</string>
+    <string name="calculate">Calculate</string>
+    <string name="mg">mg</string>
+    <string name="dl">dl</string>
+    <string name="g">g</string>
+
+</resources>
